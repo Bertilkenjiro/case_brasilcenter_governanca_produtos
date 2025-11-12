@@ -1,0 +1,31 @@
+﻿ID_Produto,Nome_Produto,Categoria,Preço,Vigência_Início,Vigência_Fim,Plano,Tipo_Oferta
+PRD001,Plano Fibra 300MB,Internet,89.9,2025-10-01,2025-11-30,Residencial,Mensal
+PRD002,Plano Fibra 500MB,Internet,129.9,2025-10-01,2025-11-15,Residencial,Mensal
+PRD003,Combo Móvel + Fibra,Combo,199.9,2025-09-15,2025-12-15,Família,Trimestral
+PRD004,Plano Móvel 10GB,Telefonia,49.9,2025-08-01,2025-09-30,Pessoal,Mensal
+PRD005,Plano Corporativo 200MB,Internet,159.9,2025-09-01,2025-12-31,Empresarial,Mensal
+PRD006,TV + Internet 200MB,Combo,189.9,2025-10-01,2025-11-30,Família,Mensal
+PRD007,TV Avançada 200 Canais,TV,139.9,2025-06-01,2025-10-31,Residencial,Mensal
+PRD008,Plano Controle 8GB,Telefonia,59.9,2025-09-01,2025-11-30,Pessoal,Mensal
+PRD009,Plano Pré 5GB,Telefonia,39.9,2025-07-01,2025-08-31,Pessoal,Mensal
+PRD010,Plano Móvel 20GB,Telefonia,89.9,2025-10-01,2025-12-15,Pessoal,Mensal
+PRD011,Plano Teste 110MB,Internet,115.1,2025-12-01,2025-03-15,Empresarial,Mensal
+PRD012,Plano Teste 120MB,Telefonia,118.3,2025-01-01,2025-02-15,Residencial,Mensal
+PRD013,Plano Teste 130MB,Internet,121.5,2025-02-01,2025-03-15,Empresarial,Mensal
+PRD014,Plano Teste 140MB,Internet,124.7,2025-03-01,2025-04-15,Residencial,Mensal
+PRD015,Plano Teste 150MB,Telefonia,127.9,2025-04-01,2025-05-15,Empresarial,Mensal
+PRD016,Plano Teste 160MB,Internet,131.1,2025-05-01,2025-06-15,Residencial,Mensal
+PRD017,Plano Teste 170MB,Internet,134.3,2025-06-01,2025-07-15,Empresarial,Mensal
+PRD018,Plano Teste 180MB,Telefonia,137.5,2025-07-01,2025-08-15,Residencial,Mensal
+PRD019,Plano Teste 190MB,Internet,140.7,2025-08-01,2025-09-15,Empresarial,Mensal
+PRD020,Plano Teste 200MB,Internet,143.9,2025-09-01,2025-10-15,Residencial,Mensal
+PRD021,Plano Teste 210MB,Telefonia,147.1,2025-10-01,2025-11-15,Empresarial,Mensal
+PRD022,Plano Teste 220MB,Internet,150.3,2025-11-01,2025-12-15,Residencial,Mensal
+PRD023,Plano Teste 230MB,Internet,153.5,2025-12-01,2025-03-15,Empresarial,Mensal
+PRD024,Plano Teste 240MB,Telefonia,156.7,2025-01-01,2025-02-15,Residencial,Mensal
+PRD025,Plano Teste 250MB,Internet,159.9,2025-02-01,2025-03-15,Empresarial,Mensal
+PRD026,Plano Teste 260MB,Internet,163.1,2025-03-01,2025-04-15,Residencial,Mensal
+PRD027,Plano Teste 270MB,Telefonia,166.3,2025-04-01,2025-05-15,Empresarial,Mensal
+PRD028,Plano Teste 280MB,Internet,169.5,2025-05-01,2025-06-15,Residencial,Mensal
+PRD029,Plano Teste 290MB,Internet,172.7,2025-06-01,2025-07-15,Empresarial,Mensal
+PRD030,Plano Teste 300MB,Telefonia,175.9,2025-07-01,2025-08-15,Residencial,Mensal

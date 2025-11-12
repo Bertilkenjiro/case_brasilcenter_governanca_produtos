@@ -134,9 +134,4 @@ Ambos detalham:
 Uso livre para fins educacionais e portfólio.  
 © 2025 Bertil Soares — Todos os direitos reservados.
 
----
-
-### 🏷️ **Descrição curta (para o campo About do GitHub)**
-> Dashboard em Excel com Power Query e VBA desenvolvido para a Brasil Center.  
-> Automatiza o controle de vigência e precificação de produtos, com atualização dinâmica e painel interativo.
 
